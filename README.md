@@ -23,11 +23,11 @@ This script focuses on visualizing and exploring the Iris dataset. It includes:
 - Providing descriptive statistics for the dataset.
 
 ## 📊 Visualizations
-
-![Graphics Image](Classificação/elementos/images/Graphics_image.png)
+### Data Visualization
+![Graphics Image](elementos/images/Graphics_image.png)
 
 ### KNN Evaluation
-![KNN Image](Classificação/elementos/images/KNN_image.png)
+![KNN Image](elementos/images/KNN_image.png)
 ## 📦 Requirements
 
 - Python 3.10 or higher

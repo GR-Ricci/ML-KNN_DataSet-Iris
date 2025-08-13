@@ -2,7 +2,7 @@
 
 This repository contains two Python scripts for analyzing the Iris dataset. One script focuses on K-Nearest Neighbors (KNN) classification, while the other is dedicated to data visualization and basic data exploration.
 
-## 📊 Project Overview
+## 📝 Project Overview
 
 ### `KNN.py` 
 This script performs K-Nearest Neighbors (KNN) classification on the Iris dataset. It includes the following steps:

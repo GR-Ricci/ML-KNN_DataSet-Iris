@@ -25,10 +25,10 @@ This script focuses on visualizing and exploring the Iris dataset. It includes:
 ## 📊 Visualizations
 
 ### Data Visualization
-<img src="elementos/images/Graphics_image.png" alt="Graphics Image" width="400"/>
+<img src="elementos/images/Graphics_image.png" alt="Graphics Image" width="500"/>
 
 ### KNN Evaluation
-<img src="elementos/images/KNN_image.png" alt="KNN Image" width="400"/>
+<img src="elementos/images/KNN_image.png" alt="KNN Image" width="500"/>
 
 ## 📦 Requirements
 
